@@ -43,6 +43,7 @@ img {
 .LogoBarSlogan {
     display: inline;
 }
+<<<<<<< HEAD
 
 /*.content {
         border: 0px solid #333;
@@ -51,6 +52,19 @@ img {
         left: 50%;
         margin-left: -530px;    
     }*/
+=======
+/*moveTO button*/
+#moveTo{
+  position:fixed;
+  bottom: 30px;
+  right: 60px;
+  z-index:999;
+  /*font-size: 3em;*/
+  cursor:pointer;
+  /*background: url("imgs/thumbSfLogo.jpg");*/
+  /*background-color: red;*/
+}
+>>>>>>> gh-pages
 
 /*media query*/
 @media screen and (min-width: 1800px) {
@@ -307,5 +321,21 @@ img {
         background-size: cover;
         background-position: center;
         box-shadow: 0 0 5px rgba(0,0,0,.5), inset 0 10px 50px rgba(0,0,0,.7)
+<<<<<<< HEAD
     } 
+=======
+    }
+    #moveTo{
+        width: 100px;
+        height: 100px;
+        position:fixed;
+        bottom: 30px;
+        right: 60px;
+        z-index:999;
+        /*font-size: 3em;*/
+        cursor:pointer;
+        /*background: url("imgs/thumbSfLogo.jpg");*/
+        /*background-color: red;*/
+    }
+>>>>>>> gh-pages
 }
