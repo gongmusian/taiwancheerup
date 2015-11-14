@@ -44,6 +44,9 @@ img {
     display: inline;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9f3f23e7da2382da7c9359b47a70e556cce4f2c6
 
 /*.content {
         border: 0px solid #333;
@@ -52,6 +55,7 @@ img {
         left: 50%;
         margin-left: -530px;    
     }*/
+<<<<<<< HEAD
 =======
 /*moveTO button*/
 #moveTo{
@@ -65,6 +69,8 @@ img {
   /*background-color: red;*/
 }
 >>>>>>> gh-pages
+=======
+>>>>>>> 9f3f23e7da2382da7c9359b47a70e556cce4f2c6
 
 /*media query*/
 @media screen and (min-width: 1800px) {
@@ -321,10 +327,7 @@ img {
         background-size: cover;
         background-position: center;
         box-shadow: 0 0 5px rgba(0,0,0,.5), inset 0 10px 50px rgba(0,0,0,.7)
-<<<<<<< HEAD
     } 
-=======
-    }
     #moveTo{
         width: 100px;
         height: 100px;
@@ -337,5 +340,4 @@ img {
         /*background: url("imgs/thumbSfLogo.jpg");*/
         /*background-color: red;*/
     }
->>>>>>> gh-pages
 }
