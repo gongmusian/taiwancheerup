@@ -73,8 +73,17 @@ img {
 >>>>>>> 9f3f23e7da2382da7c9359b47a70e556cce4f2c6
 
 /*media query*/
-@media screen and (min-width: 1800px) {
+@media only screen and (min-width: 1800px) {
     /* screen width >= 1200px，import following CSS。*/
+    /*Origin Content CSS*/
+    /*.content {*/
+    /*    border: 0px solid #333;*/
+    /*    position: relative;*/
+    /*    max-width: 1550px;*/
+    /*    left: 50%;*/
+    /*    margin-left: -775px;    */
+    /*}*/
+    
     .content {
         border: 0px solid #333;
         position: relative;
